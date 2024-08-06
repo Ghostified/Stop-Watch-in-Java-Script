@@ -5,10 +5,11 @@ let myName = 'Branson'
 console.log(myVar + myName)
 let totalCost ='The total cost is:$ ' + (3 + 5);
 console.log(totalCost)
+
 /// calculating total with template strings and interpolation 
 let total=`The total cost is:$ ${(3+5)}`
 console.log(total) 
-//alert(total) -> creates an alert
+
 let coffe = (5.99*100)
 let bagel = (2.95 *100)
 let output = 'The total cost:$ '
