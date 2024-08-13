@@ -19,3 +19,5 @@ console.log(total2)
 alert(total2 +    `\nThank you come again!`)
 
 
+
+
