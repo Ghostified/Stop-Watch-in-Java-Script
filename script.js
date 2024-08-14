@@ -18,17 +18,7 @@ let total2 = `Total Cost: $ ${(coffe + bagel)/100}`
 console.log(total2)
 alert(total2 +    `\nThank you come again!`)
 
-/// calculating total with template strings and interpolation 
-let totals=`The total cost is:$ ${(3+5)}`
-console.log(total) 
 
-let coffes = (5.99*100)
-let bagels = (2.95 *100)
-let outputs = 'The total cost:$ '
-console.log(output + (coffe + bagel)/100)
-let total3 = `Total Cost: $ ${(coffe + bagel)/100}`
-console.log(total2)
-alert(total2 +    `\nThank you come again!`)
 
 
 
